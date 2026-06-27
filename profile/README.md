@@ -25,4 +25,4 @@ Everything here is open. Fork it, break it, send it back better.
 
 - Lab: [automati.qa](https://www.automati.qa)
 - Build logs: [alxsidr.io](https://alxsidr.io)
-- Author: [Aleks Sidorecs](https://alxsidr.io)
+- LinkedIn: [Aleks Sidorecs](https://www.linkedin.com/in/alxsidr/)
