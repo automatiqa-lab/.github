@@ -16,6 +16,7 @@ The lab, with every project and its status, lives at **[automati.qa](https://www
 | [orchestrator](https://github.com/automatiqa-lab/orchestrator) | The execution layer - turn signals into decisions, policy, and a traceable record | work in progress |
 | [calibri](https://github.com/automatiqa-lab/calibri) | Agentic coordination of sample lifecycle management for agri-food and soft commodities | pipeline |
 | [synthax](https://github.com/automatiqa-lab/synthax) | A synthetic assistant for supply chain - voice-first and context-aware | pipeline |
+| [Navigator](https://github.com/automatiqa-lab/Navigator) | A guided canvas that helps you spot automation opportunities in your own processes, with an agent working the board alongside you | pipeline |
 
 ## The idea behind the lab
 
