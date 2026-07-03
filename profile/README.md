@@ -11,7 +11,7 @@ The lab, with every project and its status, lives at **[automati.qa](https://www
 | Project | What it does | Status |
 |---------|--------------|--------|
 | [oodaa](https://github.com/automatiqa-lab/oodaa) | A small, readable self-improving agent loop - Observe, Orient, Decide, Act, and the second A, Adjust | live |
-| [risk-navigator](https://github.com/automatiqa-lab/risk-navigator) | Multi-agent operational risk monitoring across freight, fuel, labour, weather, and geopolitics, turned into briefings and a live dashboard | live |
+| [risk-monitor](https://github.com/automatiqa-lab/risk-monitor) | Multi-agent operational risk monitoring across freight, fuel, labour, weather, and geopolitics, turned into briefings and a live dashboard | live |
 | [flowtwin](https://github.com/automatiqa-lab/flowtwin) | Watch an operational process once, get editable process maps and runbooks back | work in progress |
 | [orchestrator](https://github.com/automatiqa-lab/orchestrator) | The execution layer - turn signals into decisions, policy, and a traceable record | work in progress |
 | [calibri](https://github.com/automatiqa-lab/calibri) | Agentic coordination of sample lifecycle management for agri-food and soft commodities | pipeline |
