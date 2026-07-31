@@ -4,7 +4,7 @@ Open-source experiments where operations meet the algorithm.
 
 This is where I build and publish small, sharp tools for the parts of supply chain and operations that software still walks past - the physical work, the tribal knowledge, the decisions nobody ever wrote down. Each project is open source, built in public, and small enough to read in one sitting.
 
-The lab, with every project and its status, lives at **[automati.qa](https://www.automati.qa)**. The build logs and the thinking behind each one are on **[alxsidr.io](https://alxsidr.io)**.
+The lab, with every project and its status, lives at **[automatiqa.io](https://www.automatiqa.io)**. The build logs and the thinking behind each one are on **[alxsidr.io](https://alxsidr.io)**.
 
 ## Projects
 
@@ -25,6 +25,6 @@ Most agentic AI assumes a level of digital maturity that real operations do not 
 
 Everything here is open. Fork it, break it, send it back better.
 
-- Lab: [automati.qa](https://www.automati.qa)
+- Lab: [automatiqa.io](https://www.automatiqa.io)
 - Build logs: [alxsidr.io](https://alxsidr.io)
 - LinkedIn: [Aleks Sidorecs](https://www.linkedin.com/in/alxsidr/)
