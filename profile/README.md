@@ -25,6 +25,17 @@ Most agentic AI assumes a level of digital maturity that real operations do not 
 
 Everything here is open. Fork it, break it, send it back better.
 
+## Transparency
+
+The tools here draft with language models, so their output carries EU AI Act Article 50 marking:
+a line you can read, and metadata a machine can detect. Marking is conditional - content a model
+wrote is marked, content a person wrote is not, because labelling everything would misstate
+provenance and train readers to ignore the label. The model itself is never named in visible
+output; Article 50 asks you to disclose that content is AI-generated, not which system produced it.
+
+Per-project classification and reasoning: [procezio](https://github.com/automatiqa-lab/procezio/blob/main/COMPLIANCE.md)
+and [risk-monitor](https://github.com/automatiqa-lab/risk-monitor/blob/main/COMPLIANCE.md).
+
 - Lab: [automatiqa.io](https://www.automatiqa.io)
 - Build logs: [automatiqa.io/tag/build-log](https://www.automatiqa.io/tag/build-log/)
 - LinkedIn: [Aleks Sidorecs](https://www.linkedin.com/in/alxsidr/)
