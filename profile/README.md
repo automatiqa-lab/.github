@@ -16,6 +16,7 @@ The lab, with every project and its status, lives at **[automatiqa.io](https://w
 | [flowtwin](https://github.com/automatiqa-lab/flowtwin) | Watch an operational process once, get editable process maps and runbooks back | work in progress |
 | [orchestriq](https://github.com/automatiqa-lab/orchestriq) | The kernel for agents that run real operations - evals, approvals, earned autonomy and Article 50 transparency in the runtime | work in progress |
 | [auspex](https://github.com/automatiqa-lab/auspex) | A prediction and forecasting harness for supply chain operations - connect a table, pick a model, read the signs | work in progress |
+| [ppwr-screener](https://github.com/automatiqa-lab/ppwr-screener) | Screens supplier packaging declarations for EU packaging conformity - boring automation in n8n, judgement in a deterministic rule engine | work in progress |
 | [calibri](https://github.com/automatiqa-lab/calibri) | Agentic coordination of sample lifecycle management for agri-food and soft commodities | pipeline |
 | [synthax](https://github.com/automatiqa-lab/synthax) | A synthetic assistant for supply chain - voice-first and context-aware | pipeline |
 
@@ -33,8 +34,9 @@ wrote is marked, content a person wrote is not, because labelling everything wou
 provenance and train readers to ignore the label. The model itself is never named in visible
 output; Article 50 asks you to disclose that content is AI-generated, not which system produced it.
 
-Per-project classification and reasoning: [procezio](https://github.com/automatiqa-lab/procezio/blob/main/COMPLIANCE.md)
-and [risk-monitor](https://github.com/automatiqa-lab/risk-monitor/blob/main/COMPLIANCE.md).
+Per-project classification and reasoning: [procezio](https://github.com/automatiqa-lab/procezio/blob/main/COMPLIANCE.md),
+[risk-monitor](https://github.com/automatiqa-lab/risk-monitor/blob/main/COMPLIANCE.md)
+and [ppwr-screener](https://github.com/automatiqa-lab/ppwr-screener/blob/main/COMPLIANCE.md).
 
 - Lab: [automatiqa.io](https://www.automatiqa.io)
 - Build logs: [automatiqa.io/tag/build-log](https://www.automatiqa.io/tag/build-log/)
