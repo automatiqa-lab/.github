@@ -13,10 +13,10 @@ The lab, with every project and its status, lives at **[automatiqa.io](https://w
 | [oodaa](https://github.com/automatiqa-lab/oodaa) | A small, readable self-improving agent loop - Observe, Orient, Decide, Act, and the second A, Adjust | live |
 | [risk-monitor](https://github.com/automatiqa-lab/risk-monitor) | Multi-agent operational risk monitoring across freight, fuel, labour, weather, and geopolitics, turned into briefings and a live dashboard | live |
 | [procezio](https://github.com/automatiqa-lab/procezio) | A guided canvas that helps you spot automation opportunities in your own processes, with an agent working the board alongside you | live |
+| [ppwr-screener](https://github.com/automatiqa-lab/ppwr-screener) | Screens supplier packaging declarations for EU packaging conformity - twelve n8n workflows, judgement in a deterministic rule engine | live |
 | [flowtwin](https://github.com/automatiqa-lab/flowtwin) | Watch an operational process once, get editable process maps and runbooks back | work in progress |
 | [orchestriq](https://github.com/automatiqa-lab/orchestriq) | The kernel for agents that run real operations - evals, approvals, earned autonomy and Article 50 transparency in the runtime | work in progress |
 | [auspex](https://github.com/automatiqa-lab/auspex) | A prediction and forecasting harness for supply chain operations - connect a table, pick a model, read the signs | work in progress |
-| [ppwr-screener](https://github.com/automatiqa-lab/ppwr-screener) | Screens supplier packaging declarations for EU packaging conformity - boring automation in n8n, judgement in a deterministic rule engine | work in progress |
 | [calibri](https://github.com/automatiqa-lab/calibri) | Agentic coordination of sample lifecycle management for agri-food and soft commodities | pipeline |
 | [synthax](https://github.com/automatiqa-lab/synthax) | A synthetic assistant for supply chain - voice-first and context-aware | pipeline |
 
