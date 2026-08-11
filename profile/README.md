@@ -17,7 +17,7 @@ The lab, with every project and its status, lives at **[automatiqa.io](https://w
 | [flowtwin](https://github.com/automatiqa-lab/flowtwin) | Watch an operational process once, get editable process maps and runbooks back | work in progress |
 | [orchestriq](https://github.com/automatiqa-lab/orchestriq) | The kernel for agents that run real operations - evals, approvals, earned autonomy and Article 50 transparency in the runtime | work in progress |
 | [auspex](https://github.com/automatiqa-lab/auspex) | A prediction and forecasting harness for supply chain operations - connect a table, pick a model, read the signs | work in progress |
-| [calibri](https://github.com/automatiqa-lab/calibri) | Agentic coordination of sample lifecycle management for agri-food and soft commodities | pipeline |
+| [sample-trail](https://github.com/automatiqa-lab/sample-trail) | Sample management for agri-food and soft commodities - QR intake, voice cupping notes, deterministic spec check, approval log | work in progress |
 | [synthax](https://github.com/automatiqa-lab/synthax) | A synthetic assistant for supply chain - voice-first and context-aware | pipeline |
 
 ## The idea behind the lab
