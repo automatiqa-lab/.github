@@ -4,7 +4,7 @@ Open-source experiments where operations meet the algorithm.
 
 This is where I build and publish small, sharp tools for the parts of supply chain and operations that software still walks past - the physical work, the tribal knowledge, the decisions nobody ever wrote down. Each project is open source, built in public, and small enough to read in one sitting.
 
-The lab, with every project and its status, lives at **[automatiqa.io](https://www.automatiqa.io)**. The build logs and the thinking behind each one are on **[automatiqa.io/tag/build-log](https://www.automatiqa.io/tag/build-log/)**.
+The lab, with every project and its status, lives at **[automatiqa.io](https://www.automatiqa.io)**.
 
 ## Projects
 
@@ -40,5 +40,4 @@ Per-project classification and reasoning: [procezio](https://github.com/automati
 and [ship-doc](https://github.com/automatiqa-lab/ship-doc/blob/main/COMPLIANCE.md).
 
 - Lab: [automatiqa.io](https://www.automatiqa.io)
-- Build logs: [automatiqa.io/tag/build-log](https://www.automatiqa.io/tag/build-log/)
 - LinkedIn: [Aleks Sidorecs](https://www.linkedin.com/in/alxsidr/)
