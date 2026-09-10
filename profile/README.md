@@ -20,6 +20,14 @@ The lab, with every project and its status, lives at **[automatiqa.io](https://w
 | [auspex](https://github.com/automatiqa-lab/auspex) | A prediction and forecasting harness for supply chain operations - connect a table, pick a model, read the signs | work in progress |
 | [sample-trail](https://github.com/automatiqa-lab/sample-trail) | Sample approval for agri-food and soft commodities - pre-shipment and arrival samples, QR intake, voice cupping notes, deterministic spec check | live |
 
+## Heuristics
+
+Alongside the tools there is a writing series: **[heuristics](https://github.com/automatiqa-lab/heuristics)** - rules of thumb for supply chain and operations, one rule per page.
+
+Most operational advice is either a war story you can't reuse or a framework with no edges. A heuristic sits between the two: the problem named without euphemism, who has been absorbing the cost, one imperative rule, a test you can run on Monday, a case where it actually cost or saved something, and the ways it gets misapplied by people who half-remember it.
+
+Read them at [automatiqa.io/heuristics](https://www.automatiqa.io/heuristics/), or fork the markdown from the [repo](https://github.com/automatiqa-lab/heuristics). CC BY 4.0, because prose is not code.
+
 ## The idea behind the lab
 
 Most agentic AI assumes a level of digital maturity that real operations do not have. The process lives in someone's head, the exception gets handled by instinct, and nothing downstream can be automated because nothing upstream is described. The lab works the other side of that gap: capture what actually happens, make it legible, and only then let an algorithm act on it.
