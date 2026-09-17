@@ -48,4 +48,5 @@ Per-project classification and reasoning: [procezio](https://github.com/automati
 and [ship-doc](https://github.com/automatiqa-lab/ship-doc/blob/main/COMPLIANCE.md).
 
 - Lab: [automatiqa.io](https://www.automatiqa.io)
+- Manifesto: [The Intelligent Orchestration Manifesto](https://www.automatiqa.io/manifesto/)
 - LinkedIn: [Aleks Sidorecs](https://www.linkedin.com/in/alxsidr/)
