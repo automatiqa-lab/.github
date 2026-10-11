@@ -23,11 +23,11 @@ The lab, with every project and its status, lives at **[automatiqa.io](https://w
 
 ## Heuristics
 
-Alongside the tools there is a writing series: **[heuristics](https://github.com/automatiqa-lab/heuristics)** - rules of thumb for supply chain and operations, one rule per page.
+Alongside the tools there is a writing series: **[heuristics](https://www.sidorecs.com/heuristics/)** - rules of thumb for supply chain and operations, one rule per page.
 
 Most operational advice is either a war story you can't reuse or a framework with no edges. A heuristic sits between the two: the problem named without euphemism, who has been absorbing the cost, one imperative rule, a test you can run on Monday, a case where it actually cost or saved something, and the ways it gets misapplied by people who half-remember it.
 
-Read them at [automatiqa.io/heuristics](https://www.automatiqa.io/heuristics/), or fork the markdown from the [repo](https://github.com/automatiqa-lab/heuristics). CC BY 4.0, because prose is not code.
+Read them at [sidorecs.com/heuristics](https://www.sidorecs.com/heuristics/), or fork the markdown from the [repo](https://github.com/alxsidr/heuristics). CC BY 4.0, because prose is not code.
 
 ## The idea behind the lab
 
