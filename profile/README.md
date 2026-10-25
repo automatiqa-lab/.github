@@ -19,7 +19,7 @@ The lab, with every project and its status, lives at **[automatiqa.io](https://w
 | [orchestriq](https://github.com/automatiqa-lab/orchestriq) | The kernel for agents that run real operations - evals, approvals, earned autonomy and Article 50 transparency in the runtime | work in progress |
 | [auspex](https://github.com/automatiqa-lab/auspex) | A prediction and forecasting harness for supply chain operations - connect a table, pick a model, read the signs | work in progress |
 | [scopec](https://github.com/automatiqa-lab/scopec) | Supply Chain Operations Planning & Execution in Commodities - S&OP and S&OE on one kernel, commodity families as data, a network twin and agents that act on exceptions under an earned autonomy ladder | work in progress |
-| [gatewright](https://github.com/automatiqa-lab/gatewright) | AI PMO harness for capital project delivery - gates, commitments, chasers, signals and forecasts on one record, bounded agents, and people who stamp the decisions | work in progress |
+| [gatewright](https://github.com/automatiqa-lab/gatewright) | AI PMO harness for capital project delivery - gates, commitments, chasers, signals and forecasts on one record, bounded agents, and people who stamp the decisions | live |
 | [sample-trail](https://github.com/automatiqa-lab/sample-trail) | Sample approval for agri-food and soft commodities - pre-shipment and arrival samples, QR intake, voice cupping notes, deterministic spec check | live |
 
 ## Heuristics
